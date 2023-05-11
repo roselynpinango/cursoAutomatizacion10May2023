@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-10T21:09:05 ART" name="Surefire suite" finished-at="2023-05-10T21:10:44 ART" duration-ms="99437">
+    <groups>
+    </groups>
+    <test started-at="2023-05-10T21:09:05 ART" name="Surefire test" finished-at="2023-05-10T21:10:44 ART" duration-ms="99437">
+      <class name="Edit.EducacionIT_63596.AccesoABaseDeDatosTest">
+        <test-method signature="testBaseDeDatos()[pri:0, instance:Edit.EducacionIT_63596.AccesoABaseDeDatosTest@5db250b4]" started-at="2023-05-10T21:09:05 ART" name="testBaseDeDatos" finished-at="2023-05-10T21:09:05 ART" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBaseDeDatos -->
+      </class> <!-- Edit.EducacionIT_63596.AccesoABaseDeDatosTest -->
+      <class name="pruebas.Clase9Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pruebas.Clase9Test@7c469c48]" started-at="2023-05-10T21:08:51 ART" name="setUp" finished-at="2023-05-10T21:08:58 ART" duration-ms="7195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="alertaConText()[pri:0, instance:pruebas.Clase9Test@7c469c48]" started-at="2023-05-10T21:10:35 ART" name="alertaConText" finished-at="2023-05-10T21:10:35 ART" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertaConText -->
+        <test-method signature="alertaConfirmacion()[pri:0, instance:pruebas.Clase9Test@7c469c48]" started-at="2023-05-10T21:10:35 ART" name="alertaConfirmacion" finished-at="2023-05-10T21:10:35 ART" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertaConfirmacion -->
+        <test-method signature="alertaDemorada()[pri:0, instance:pruebas.Clase9Test@7c469c48]" started-at="2023-05-10T21:10:35 ART" name="alertaDemorada" finished-at="2023-05-10T21:10:40 ART" duration-ms="5263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertaDemorada -->
+        <test-method signature="alertaNotificacion()[pri:0, instance:pruebas.Clase9Test@7c469c48]" started-at="2023-05-10T21:10:40 ART" name="alertaNotificacion" finished-at="2023-05-10T21:10:40 ART" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertaNotificacion -->
+      </class> <!-- pruebas.Clase9Test -->
+      <class name="pruebas.IniciarSesionTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pruebas.IniciarSesionTest@12e61fe6]" started-at="2023-05-10T21:08:58 ART" name="setUp" finished-at="2023-05-10T21:09:05 ART" duration-ms="6549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="buscarPalabra()[pri:0, instance:pruebas.IniciarSesionTest@12e61fe6]" started-at="2023-05-10T21:10:40 ART" name="buscarPalabra" finished-at="2023-05-10T21:10:42 ART" duration-ms="1868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buscarPalabra -->
+        <test-method signature="iniciarSesion()[pri:0, instance:pruebas.IniciarSesionTest@12e61fe6]" started-at="2023-05-10T21:10:42 ART" name="iniciarSesion" finished-at="2023-05-10T21:10:44 ART" duration-ms="1969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarSesion -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pruebas.IniciarSesionTest@12e61fe6]" started-at="2023-05-10T21:10:44 ART" name="tearDown" finished-at="2023-05-10T21:10:44 ART" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pruebas.IniciarSesionTest -->
+      <class name="Edit.EducacionIT_63596.AppTest">
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:Edit.EducacionIT_63596.AppTest@16e7dcfd]" started-at="2023-05-10T21:09:05 ART" name="shouldAnswerWithTrue" finished-at="2023-05-10T21:09:05 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- Edit.EducacionIT_63596.AppTest -->
+      <class name="Edit.EducacionIT_63596.MobileEmulationTest">
+        <test-method signature="testMobileEmulation()[pri:0, instance:Edit.EducacionIT_63596.MobileEmulationTest@3d121db3]" started-at="2023-05-10T21:09:05 ART" name="testMobileEmulation" finished-at="2023-05-10T21:09:35 ART" duration-ms="29846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileEmulation -->
+      </class> <!-- Edit.EducacionIT_63596.MobileEmulationTest -->
+      <class name="pruebas.Clase8Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pruebas.Clase8Test@51e5fc98]" started-at="2023-05-10T21:08:44 ART" name="setUp" finished-at="2023-05-10T21:08:51 ART" duration-ms="7379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="iniciarSesion(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@51e5fc98]" started-at="2023-05-10T21:10:15 ART" name="iniciarSesion" data-provider="obtenerDatosExcel" finished-at="2023-05-10T21:10:18 ART" duration-ms="2639" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo01@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[43rw43wr4w]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarSesion -->
+        <test-method signature="iniciarSesion(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@51e5fc98]" started-at="2023-05-10T21:10:18 ART" name="iniciarSesion" data-provider="obtenerDatosExcel" finished-at="2023-05-10T21:10:20 ART" duration-ms="1935" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo02@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yer5y4e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarSesion -->
+        <test-method signature="iniciarSesion(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@51e5fc98]" started-at="2023-05-10T21:10:20 ART" name="iniciarSesion" data-provider="obtenerDatosExcel" finished-at="2023-05-10T21:10:22 ART" duration-ms="2191" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo03@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4wr3w3w4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarSesion -->
+        <test-method signature="iniciarSesion(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@51e5fc98]" started-at="2023-05-10T21:10:22 ART" name="iniciarSesion" data-provider="obtenerDatosExcel" finished-at="2023-05-10T21:10:24 ART" duration-ms="1827" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo04@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8yoikyujyt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarSesion -->
+        <test-method signature="iniciarSesion(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@51e5fc98]" started-at="2023-05-10T21:10:24 ART" name="iniciarSesion" data-provider="obtenerDatosExcel" finished-at="2023-05-10T21:10:26 ART" duration-ms="2060" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo05@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdcsdewza]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarSesion -->
+        <test-method signature="iniciarSesion(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@51e5fc98]" started-at="2023-05-10T21:10:26 ART" name="iniciarSesion" data-provider="obtenerDatosExcel" finished-at="2023-05-10T21:10:28 ART" duration-ms="2216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo06@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[45tet%]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarSesion -->
+        <test-method signature="iniciarSesion(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@51e5fc98]" started-at="2023-05-10T21:10:28 ART" name="iniciarSesion" data-provider="obtenerDatosExcel" finished-at="2023-05-10T21:10:30 ART" duration-ms="1783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo07@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[34rwesfwe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarSesion -->
+        <test-method signature="iniciarSesion(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@51e5fc98]" started-at="2023-05-10T21:10:30 ART" name="iniciarSesion" data-provider="obtenerDatosExcel" finished-at="2023-05-10T21:10:32 ART" duration-ms="1630" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo08@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ae3waddas]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarSesion -->
+        <test-method signature="iniciarSesion(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@51e5fc98]" started-at="2023-05-10T21:10:32 ART" name="iniciarSesion" data-provider="obtenerDatosExcel" finished-at="2023-05-10T21:10:33 ART" duration-ms="1537" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo09@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[34wr4esrs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarSesion -->
+        <test-method signature="iniciarSesion(java.lang.String,java.lang.String)[pri:0, instance:pruebas.Clase8Test@51e5fc98]" started-at="2023-05-10T21:10:33 ART" name="iniciarSesion" data-provider="obtenerDatosExcel" finished-at="2023-05-10T21:10:35 ART" duration-ms="1490" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo10@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7yi78iyuiyu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarSesion -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pruebas.Clase8Test@51e5fc98]" started-at="2023-05-10T21:10:44 ART" name="tearDown" finished-at="2023-05-10T21:10:44 ART" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pruebas.Clase8Test -->
+      <class name="Edit.EducacionIT_63596.ScrollScreenshotTest">
+        <test-method signature="scrollScreenshotTest()[pri:0, instance:Edit.EducacionIT_63596.ScrollScreenshotTest@3b07a0d6]" started-at="2023-05-10T21:09:35 ART" name="scrollScreenshotTest" finished-at="2023-05-10T21:10:15 ART" duration-ms="39823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollScreenshotTest -->
+      </class> <!-- Edit.EducacionIT_63596.ScrollScreenshotTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
