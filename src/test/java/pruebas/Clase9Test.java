@@ -56,6 +56,7 @@ public class Clase9Test {
 		driver.findElement(By.cssSelector("#promtButton")).click();
 		
 		Alert alerta = driver.switchTo().alert();
+		System.out.println(alerta.getText()); // Nueva Linea
 		alerta.sendKeys("Clase de Automatizacion!");
 		alerta.accept();
 	}
